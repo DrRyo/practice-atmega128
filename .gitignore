@@ -110,3 +110,8 @@ dkms.conf
 # Debug files
 *.dSYM/
 *.su
+
+# Backup files
+*.c~
+*.prj~
+*.cw~
