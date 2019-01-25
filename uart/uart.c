@@ -1,7 +1,7 @@
 /*
  * uart.c
  *
- * Created: 2019-01-10 ¿ÀÈÄ 1:55:49
+ * Created: 2019-01-10 PM 1:55:49
  * Author: ryo
  */
 #include <mega128.h>

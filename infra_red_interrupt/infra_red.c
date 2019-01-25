@@ -1,8 +1,9 @@
 n/*
  * infra_red.c
  *
- * Created: 2019-01-15 ¿ÀÈÄ 5:39:25
+ * Created: 2019-01-15 PM 5:39:25
  * Author: ryo
+ * Sensor: SHARP GP2Y0A21YK0F (http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a21yk_e.pdf)
  */
 
 #include <mega128.h>

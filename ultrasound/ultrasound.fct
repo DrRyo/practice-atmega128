@@ -1,0 +1,6 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"ultrasound.c" LINE:78
+uart0_init DSTACK_USAGE:2 DSTACK_LEVEL:2 FILE:"ultrasound.c" LINE:20
+read_pulse DSTACK_USAGE:14 DSTACK_LEVEL:16 FILE:"ultrasound.c" LINE:50
+printf DSTACK_USAGE:10 DSTACK_LEVEL:26 FILE:"C:\cvavreval\lib\stdio.lib" LINE:1581
+_print DSTACK_USAGE:20 DSTACK_LEVEL:46 FILE:"C:\cvavreval\lib\stdio.lib" LINE:586
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:48 FILE:"C:\cvavreval\lib\string.lib" LINE:1722

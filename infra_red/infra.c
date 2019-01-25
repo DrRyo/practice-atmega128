@@ -1,8 +1,9 @@
 /*
  * infra.c
  *
- * Created: 2019-01-09 ¿ÀÈÄ 3:27:30
+ * Created: 2019-01-09 PM 3:27:30
  * Author: ryo
+ * Sensor: SHARP GP2Y0A21YK0F (http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a21yk_e.pdf) 
  */
 
 #include <mega128.h>

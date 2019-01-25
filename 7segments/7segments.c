@@ -1,7 +1,7 @@
 /*
  * 7segments.c
  *
- * Created: 2019-01-09 ¿ÀÈÄ 2:55:49
+ * Created: 2019-01-09 PM 2:55:49
  * Author: ryo
  */
 

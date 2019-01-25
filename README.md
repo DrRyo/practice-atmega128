@@ -1,23 +1,21 @@
 # practice-atmega128
 
 ## Purpose
-Personal practice atmega128 using CodeVision AVR
+Personal practice atmega128 using CodeVisionAVR
 
 ## Project
 1. test
    - Test code
-2. test_no
-   - Test code
-3. 7segments
+2. 7segments
    - Using 7 segments display
-4. uart
+3. uart
    - printf to UART for debug
-5. infra_red
+4. infra_red
    - Using infrared sensor with free-running method (ADC)
-6. infra_red_interrupt
+5. infra_red_interrupt
    - Using infrared sensor with interrupt method (ADC)
-7. ultrasound_bluetooth (Not finished)
-   - Using ultrasound sensor with external interrupt and clock/timer, print debug to bluetooth
+6. ultrasound
+   - Using ultrasound sensor with external interrupt and clock/timer
 
 ## Tool
 * ATMega128 [AB-M128-B](http://www.newtc.co.kr/dpshop/shop/item.php?it_id=1314599928)
@@ -26,5 +24,5 @@ Personal practice atmega128 using CodeVision AVR
 * Other sensors, ...
 
 ## Software
-* CodeVision AVR 3.34 Evaluation
-* rarely Atmel Studio 7
+* CodeVisionAVR 3.34 Evaluation
+* *rarely* Atmel Studio 7

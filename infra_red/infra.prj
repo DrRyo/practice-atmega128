@@ -19,7 +19,7 @@ OutputExecutableFilesDirectory=Release\Exe
 OutputLinkerFilesDirectory=Release\Link
 ActiveTab=1
 OF1=infra.c
-TimeStamp1=1311739088
+TimeStamp1=1312389803
 F1=infra.c
 non-commercial use only
 [CompilerDebug]
@@ -126,8 +126,8 @@ UseEEPROMLocation0=1
 DisplayCodeSizeError=0
 RebuildAll=0
 LinkageInformationPresent=1
-COFFileTimeStamp=1311739045
-Build=40
+COFFileTimeStamp=1312389808
+Build=41
 GlobalVarAddr=1280
 EEPROMVarAddr=0
 [DefinedSymbolsDebug]
@@ -237,7 +237,7 @@ DisplayCodeSizeError=0
 RebuildAll=1
 LinkageInformationPresent=0
 COFFileTimeStamp=-1
-Build=40
+Build=41
 IncludePath0=C:\cvavreval\inc
 IncludePath1=
 IncludePath2=
@@ -503,8 +503,8 @@ L13=Enhanced function parameters passing: Mode 2
 L14=Automatic register allocation: Yes
 L15=Smart register allocation: Yes
 L16=
-L17=Build: 39
-L18=2012 line(s) compiled
+L17=Build: 40
+L18=2013 line(s) compiled
 L19=No errors
 L20=No warnings
 L21=
@@ -530,7 +530,7 @@ L38=55 words (110 bytes), 6.7% reduced by Code Compression
 L1=AVRASM: AVR macro assembler 2.1.30 (build 592 Nov  7 2008 12:38:17)
 L2=Copyright (C) 1995-2008 ATMEL Corporation
 L3=
-L4=C:\Users\ryo\Desktop\Lab\Projects\infra_red\Debug\List\infra.asm(2070): No EEPROM data, deleting C:\Users\ryo\Desktop\Lab\Projects\infra_red\Debug\Exe\infra.eep
+L4=C:\Users\ryo\Desktop\Lab\Projects\practice-atmega128\infra_red\Debug\List\infra.asm(2071): No EEPROM data, deleting C:\Users\ryo\Desktop\Lab\Projects\practice-atmega128\infra_red\Debug\Exe\infra.eep
 L5=
 L6=ATmega128 memory use summary [bytes]:
 L7=Segment   Begin    End      Code   Data   Used    Size   Use%
@@ -545,17 +545,17 @@ Row=0
 Column=0
 ScrollPosX=0
 ScrollPosY=0
-TimeStamp=1311739112
+TimeStamp=1312389810
 [BookmarksFoldedCode]
 Files=2
 F1=infra.c
 F2=C:\cvavreval\inc\stdio.h
 [Bookmarks1]
-TimeStamp=1311739088
-Row=78
-Column=8
+TimeStamp=1312389803
+Row=6
+Column=37
 ScrollPosX=0
-ScrollPosY=38
+ScrollPosY=0
 BK0=-1
 BK1=-1
 BK2=-1
@@ -567,8 +567,9 @@ BK7=-1
 BK8=-1
 BK9=-1
 [HeadersList]
-Files=1
+Files=2
 F1=C:\Users\ryo\Desktop\Lab\Projects\infra_red\infra.c
+F2=C:\Users\ryo\Desktop\Lab\Projects\practice-atmega128\infra_red\infra.c
 [Bookmarks2]
 TimeStamp=1211658357
 Row=24
@@ -588,6 +589,15 @@ BK9=-1
 [FoldedCode2]
 Blocks=0
 [Header1]
+Files=7
+F1=C:\cvavreval\inc\mega128.h
+F2=C:\cvavreval\inc\mega128_bits.h
+F3=C:\cvavreval\inc\stdint.h
+F4=C:\cvavreval\inc\stdio.h
+F5=C:\cvavreval\inc\io.h
+F6=C:\cvavreval\inc\stdarg.h
+F7=C:\cvavreval\inc\delay.h
+[Header2]
 Files=7
 F1=C:\cvavreval\inc\mega128.h
 F2=C:\cvavreval\inc\mega128_bits.h

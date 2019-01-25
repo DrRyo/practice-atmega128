@@ -20,7 +20,7 @@ OutputLinkerFilesDirectory=Release\Link
 F1=infra_red.c
 ActiveTab=1
 OF1=infra_red.c
-TimeStamp1=1311865606
+TimeStamp1=1312389816
 non-commercial use only
 [CompilerDebug]
 Chip=ATmega128
@@ -491,14 +491,15 @@ Row=0
 Column=0
 ScrollPosX=0
 ScrollPosY=0
-TimeStamp=1312184885
+TimeStamp=1312389819
 [BookmarksFoldedCode]
-Files=1
+Files=2
 F1=infra_red.c
+F2=C:\cvavreval\inc\mega128.h
 [Bookmarks1]
-TimeStamp=1311865606
-Row=55
-Column=17
+TimeStamp=1312389816
+Row=5
+Column=117
 ScrollPosX=0
 ScrollPosY=0
 BK0=-1
@@ -511,9 +512,6 @@ BK6=-1
 BK7=-1
 BK8=-1
 BK9=-1
-[HeadersList]
-Files=1
-F1=C:\Users\ryo\Desktop\Lab\Projects\infra_red_interrupt\infra_red.c
 [BuildInfoCompiler]
 L1=Build configuration: Debug
 L2=Chip: ATmega128
@@ -532,8 +530,8 @@ L14=Automatic register allocation: Yes
 L15=Smart register allocation: Yes
 L16=
 L17=Build: 3
-L18=2008 line(s) compiled
-L19=No errors
+L18=2009 line(s) compiled
+L19=1 error(s)
 L20=No warnings
 L21=
 L22=Bit variables size: 0 byte(s)
@@ -550,11 +548,11 @@ L32=
 L33=Heap size: 0 byte(s)
 L34=
 L35=EEPROM usage: 0 byte(s), 0.0% of EEPROM
-Lines=37
+Lines=35
 L36=Program size: 714 words (1428 bytes), 1.1% of FLASH
 L37=44 words (88 bytes), 5.8% reduced by Code Compression
 [BuildInfoAssembler]
-Lines=12
+Lines=0
 L1=AVRASM: AVR macro assembler 2.1.30 (build 592 Nov  7 2008 12:38:17)
 L2=Copyright (C) 1995-2008 ATMEL Corporation
 L3=
@@ -567,6 +565,27 @@ L9=[.cseg] 0x000000 0x000594   1390     38   1428  131072   1.1%
 L10=[.dseg] 0x000100 0x000500      0      0      0    4096   0.0%
 L11=[.eseg] 0x000000 0x000000      0      0      0    4096   0.0%
 L12=
+[Bookmarks2]
+TimeStamp=982408965
+Row=8
+Column=0
+ScrollPosX=0
+ScrollPosY=0
+BK0=-1
+BK1=-1
+BK2=-1
+BK3=-1
+BK4=-1
+BK5=-1
+BK6=-1
+BK7=-1
+BK8=-1
+BK9=-1
+[HeadersList]
+Files=1
+F1=C:\Users\ryo\Desktop\Lab\Projects\practice-atmega128\infra_red_interrupt\infra_red.c
+[FoldedCode2]
+Blocks=0
 [Header1]
 Files=7
 F1=C:\cvavreval\inc\mega128.h
